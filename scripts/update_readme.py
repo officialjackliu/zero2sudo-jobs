@@ -14,7 +14,7 @@ Everything outside those regions is left untouched, so the script is safe
 to run repeatedly (idempotent) and by GitHub Actions.
 
 Table columns (mirroring the speedyapply/2027-SWE-College-Jobs style):
-    Company | Position | Location | Posting | Age
+    Company | Position | Location | Posting | Details | Age
 
 "Age" is computed from each job's date_seen (days since it was first
 spotted). Jobs are sorted newest first within each section.
@@ -69,8 +69,8 @@ def escape(text: str) -> str:
 def build_table(jobs: list[dict], today) -> str:
     """Build the Markdown table for one section's jobs."""
     lines = [
-        "| Company | Position | Location | Posting | Age |",
-        "|---|---|---|---|---|",
+        "| Company | Position | Location | Posting | Details | Age |",
+        "|---|---|---|---|---|---|",
     ]
     for job in sorted(jobs, key=lambda j: j.get("date_seen", ""), reverse=True):
         salary = job.get("salary")
@@ -78,16 +78,17 @@ def build_table(jobs: list[dict], today) -> str:
         if salary:
             position = f"{position} ({salary})"
         lines.append(
-            "| **{company}** | {position} | {location} | {posting} | {age} |".format(
+            "| **{company}** | {position} | {location} | {posting} | {details} | {age} |".format(
                 company=escape(job["company"]),
                 position=escape(position),
                 location=escape(job["location"]),
                 posting=apply_cell(job),
+                details=escape(job.get("notes") or "-"),
                 age=age_label(job["date_seen"], today),
             )
         )
     if not jobs:
-        lines.append("| *No jobs yet — check back soon.* | | | | |")
+        lines.append("| *No jobs yet — check back soon.* | | | | | |")
     return "\n".join(lines)
 
 

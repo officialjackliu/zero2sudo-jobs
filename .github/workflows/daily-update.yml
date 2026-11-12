@@ -1,4 +1,5 @@
-# NOTE: this workflow does NOT fetch Instagram stories.
+# NOTE: this workflow does NOT fetch Instagram stories. It imports the public
+# Direct Consideration posts and processes any screenshots in screenshots/.
 # Story fetching from Instagram needs a logged-in session, and stories expire
 # after 24 hours, so it cannot be automated reliably here. New story jobs
 # arrive via the screenshots/ folder (dropped in by a maintainer, or by a
@@ -36,6 +37,12 @@ jobs:
 
       - name: Daily run (24h stories, job-only, deduped)
         run: python3 scripts/run_daily.py --source screenshots
+
+      - name: Import latest Direct Consideration posts
+        run: |
+          python3 scripts/import_blog.py \
+            --latest \
+            --date-seen "$(date -u +%Y-%m-%d)"
 
       # OPTIONAL (disabled): pull the public speedyapply list as a secondary
       # cross-check source. Left commented out on purpose — this repo's scope
