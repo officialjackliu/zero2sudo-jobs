@@ -1279,5 +1279,71 @@
     "date_seen": "2026-11-12",
     "salary": null,
     "notes": "Anduril posted a 2027 New Grad Information Security Engineer role in Costa Mesa, California. One Thing I Want To Know If you’re a CS or information science major, would you be interested in jobs outside traditional SWE roles if you’re still qualified for them? Reply with a yes or no, and tell us which domains (robotics, deep tech, frontier AI) or newer roles (GTM engineering, forward deployed engineering, etc.) you’d go after. If you’ve already seen postings or gotten interviews in any of these areas, let us know that too. Subscribe to Direct Consideration to get the urgent roles, recruiter intel, events, and opportunities worth knowing about as they happen. Know someone who needs to see this? Forward this newsletter"
+  },
+  {
+    "company": "Zoox",
+    "position": "Zoox Student Software Engineering Role",
+    "location": "Foster City, CA",
+    "apply_url": "https://jobs.lever.co/zoox/116fa648-0397-47b5-a7ab-08d7f96594b3?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-029",
+    "date_seen": "2026-11-13",
+    "salary": null,
+    "notes": "Zoox posted a Contract Student Worker, Software Engineer role at 20 hrs/week, on-site in Foster City, CA."
+  },
+  {
+    "company": "Zoox",
+    "position": "Zoox Student ML Engineers",
+    "location": "Boston, MA; Foster City, CA; Seattle, WA; San Diego, CA",
+    "apply_url": "https://jobs.lever.co/zoox/79cd1de5-c540-4917-8820-960f65fb8f9e?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-029",
+    "date_seen": "2026-11-13",
+    "salary": null,
+    "notes": "Zoox opened a Contract Student Worker - Machine Learning Engineer role, also under Autonomy Software. It’s on-site and listed in Boston, MA; Foster City, CA; Seattle, WA; and San Diego, CA."
+  },
+  {
+    "company": "Kalshi",
+    "position": "Kalshi Listed a GTA VI Researcher Role",
+    "location": "New York, United States",
+    "apply_url": "https://www.linkedin.com/jobs/view/4488260244?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-029",
+    "date_seen": "2026-11-13",
+    "salary": null,
+    "notes": "Cohort: All Kalshi has a GTA VI Researcher role on LinkedIn, based in New York, United States."
+  },
+  {
+    "company": "SpaceX",
+    "position": "SpaceX Opened a New Grad Role on Starfall Software",
+    "location": "Hawthorne, CA",
+    "apply_url": "https://job-boards.greenhouse.io/spacex/jobs/8939697002?utm_source=zero2sudo",
+    "type": "new_grad",
+    "source": "https://directconsideration.com/p/direct-consideration-029",
+    "date_seen": "2026-11-13",
+    "salary": null,
+    "notes": "SpaceX posted a New Graduate Engineer, Aerospace Software (Starfall) role in Hawthorne, CA. Subscribe to Direct Consideration to get the urgent roles, recruiter intel, events, and opportunities worth knowing about as they happen. Know someone prepping for recruiting season? Forward this newsletter"
+  },
+  {
+    "company": "The New York Times",
+    "position": "The New York Times Data Analyst Internship",
+    "location": "New York, NY",
+    "apply_url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-027",
+    "date_seen": "2026-11-13",
+    "salary": null,
+    "notes": "The Data Analyst Intern role is in New York, NY."
+  },
+  {
+    "company": "The New York Times",
+    "position": "The New York Times Audience Insights Internship",
+    "location": "New York, NY",
+    "apply_url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752928005?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-027",
+    "date_seen": "2026-11-13",
+    "salary": null,
+    "notes": "The Audience Insights Intern role is in New York, NY."
   }
 ]
