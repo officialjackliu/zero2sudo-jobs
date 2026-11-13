@@ -20,6 +20,11 @@ _LOCATION_RE = re.compile(
     r"([^.;]+)",
     re.IGNORECASE,
 )
+_KNOWN_COMPANY_PREFIXES = (
+    "Palantir", "The New York Times", "General Motors", "Lila Sciences",
+    "Alaska Airlines", "Capital One", "Wolverine Trading",
+    "Amazon Future Engineer", "NBCUniversal", "McDonald’s",
+)
 
 
 @dataclass(frozen=True)
@@ -146,8 +151,11 @@ def _job_type(block: dict) -> str:
 
 
 def _company(label: str, heading: str) -> str:
+    heading_company = _heading_company(heading)
     value = re.sub(r"^apply to\s+", "", label, flags=re.IGNORECASE)
     value = re.sub(r"\s*→$", "", value).strip()
+    if heading.startswith(_KNOWN_COMPANY_PREFIXES):
+        return heading_company
     if "," in value:
         value = value.split(",", 1)[0].strip()
     else:
@@ -168,11 +176,7 @@ def _company(label: str, heading: str) -> str:
 
 
 def _heading_company(heading: str) -> str:
-    for prefix in (
-        "The New York Times", "General Motors", "Lila Sciences",
-        "Alaska Airlines", "Capital One", "Wolverine Trading",
-        "Amazon Future Engineer", "NBCUniversal", "McDonald’s",
-    ):
+    for prefix in _KNOWN_COMPANY_PREFIXES:
         if heading.startswith(prefix):
             return prefix
     return heading.split()[0]
@@ -185,7 +189,7 @@ def _position(label: str, heading: str) -> str:
         value = value.split(",", 1)[1].strip()
     else:
         value = re.sub(r"^(?:NYT|TikTok)\s+", "", value, flags=re.IGNORECASE)
-    heading_company = heading.split()[0].lower()
+    heading_company = _heading_company(heading).lower()
     if value and value.lower() not in {
         "tesla", "zoox", "tinder", "samsara", "moody", "salesforce",
         "pinterest", "stripe", "microsoft", "datarobot", "beli", "amazon",

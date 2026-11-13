@@ -81,6 +81,25 @@ class TestBlogParser(unittest.TestCase):
         self.assertEqual(len(jobs), 1)
         self.assertEqual(jobs[0]["company"], "Example")
 
+    def test_grouped_palantir_links_keep_company_and_distinct_roles(self):
+        html = """
+        <h2>Palantir SWE Internships</h2>
+        <p>Palantir posted Software Engineer internships in Denver, CO and New York, NY.</p>
+        <a href="https://jobs.example/palantir-denver">Apply to Connectivity Platform and Product (Denver) →</a>
+        <a href="https://jobs.example/palantir-ny">Apply to Connectivity Platform and Product (New York) →</a>
+        <a href="https://jobs.example/palantir-data">Apply to Data Connectors →</a>
+        """
+        jobs = blog.parse_post(html, "https://example.com/post")
+        self.assertEqual([job["company"] for job in jobs], ["Palantir"] * 3)
+        self.assertEqual(
+            [job["position"] for job in jobs],
+            [
+                "Connectivity Platform and Product (Denver)",
+                "Connectivity Platform and Product (New York)",
+                "Data Connectors",
+            ],
+        )
+
 
 if __name__ == "__main__":
     unittest.main()
