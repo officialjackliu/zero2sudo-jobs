@@ -1345,5 +1345,126 @@
     "date_seen": "2026-11-13",
     "salary": null,
     "notes": "The Audience Insights Intern role is in New York, NY."
+  },
+  {
+    "company": "Apple",
+    "position": "Apple Software Development Engineer",
+    "location": "Cupertino, California",
+    "apply_url": "https://jobs.apple.com/en-us/details/200693291/software-development-engineer-test-tooling?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-030",
+    "date_seen": "2026-11-16",
+    "salary": null,
+    "notes": "Cohort: BS / MS Internship Apple posted a Software Development Engineer, Test Tooling role in Cupertino, California."
+  },
+  {
+    "company": "Microsoft",
+    "position": "Microsoft Applied Science Internship",
+    "location": "Redmond, Washington",
+    "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556986141?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-030",
+    "date_seen": "2026-11-16",
+    "salary": null,
+    "notes": "Cohort: BS / MS Internship Microsoft posted an Applied Science Intern role in Redmond, Washington."
+  },
+  {
+    "company": "WTW",
+    "position": "WTW Data Analyst Internship",
+    "location": "New York",
+    "apply_url": "https://careers.wtwco.com/jobs/early-careers-data-analyst-internship-new-york-united-states?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-030",
+    "date_seen": "2026-11-16",
+    "salary": null,
+    "notes": "Cohort: BS / MS Internship WTW posted an Early Careers: Data Analyst Internship in New York."
+  },
+  {
+    "company": "Zoox",
+    "position": "Zoox Summer 2027 Data Science Internship",
+    "location": "Foster City, California",
+    "apply_url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-030",
+    "date_seen": "2026-11-16",
+    "salary": null,
+    "notes": "Cohort: Master’s & PhD Zoox is hiring a Data Scientist Intern for Summer 2027 in Foster City, California."
+  },
+  {
+    "company": "ServiceNow",
+    "position": "ServiceNow AI Security Engineer Internship",
+    "location": "San Diego, California",
+    "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161548289?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-030",
+    "date_seen": "2026-11-16",
+    "salary": null,
+    "notes": "Cohort: Master’s Internship ServiceNow posted an AI Security Engineer Intern role based in San Diego, California."
+  },
+  {
+    "company": "ServiceNow",
+    "position": "ServiceNow Security Engineering & Automation Internship",
+    "location": "Kirkland, Washington",
+    "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161548528?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-030",
+    "date_seen": "2026-11-16",
+    "salary": null,
+    "notes": "Cohort: Master’s Internship ServiceNow posted a Security Engineering & Automation Intern role based in Kirkland, Washington."
+  },
+  {
+    "company": "Microsoft",
+    "position": "Microsoft Software-Hardware Co-design Internship",
+    "location": "Redmond, Washington",
+    "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557073455?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-030",
+    "date_seen": "2026-11-16",
+    "salary": null,
+    "notes": "Microsoft posted a Research Intern role on its MSR Software-Hardware Co-design team in Redmond, Washington."
+  },
+  {
+    "company": "JPMorgan",
+    "position": "JPMorgan AI Engineer Role",
+    "location": "Jersey City, New Jersey",
+    "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788723?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-030",
+    "date_seen": "2026-11-16",
+    "salary": null,
+    "notes": "JPMorgan opened an AI Associate Engineer for Sales Assistant Platform Technology role (Software Engineer III) in Jersey City, New Jersey."
+  },
+  {
+    "company": "Capital One",
+    "position": "Capital One Data Scientist Role",
+    "location": "McLean, Virginia",
+    "apply_url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Associate--Data-Scientist---US-Card_R1005289-1?utm_source=zero2sudo",
+    "type": "new_grad",
+    "source": "https://directconsideration.com/p/direct-consideration-030",
+    "date_seen": "2026-11-16",
+    "salary": null,
+    "notes": "& New Grad Capital One opened an Associate, Data Scientist role on its US Card team in McLean, Virginia."
+  },
+  {
+    "company": "Nuro",
+    "position": "Nuro 2027 Systems Engineering",
+    "location": "California, HQ",
+    "apply_url": "https://nuro.ai/careersitem?gh_jid=8360415&utm_source=zero2sudo",
+    "type": "new_grad",
+    "source": "https://directconsideration.com/p/direct-consideration-030",
+    "date_seen": "2026-11-16",
+    "salary": null,
+    "notes": "Nuro posted a Systems Engineering, New Grad 2027 role at its Mountain View, California, HQ."
+  },
+  {
+    "company": "Maven",
+    "position": "Maven 2027 Graduate Floor Trader Role",
+    "location": "Chicago, trading in the CBOE SPX pit",
+    "apply_url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8352763?gh_jid=8352763&utm_source=zero2sudo",
+    "type": "new_grad",
+    "source": "https://directconsideration.com/p/direct-consideration-030",
+    "date_seen": "2026-11-16",
+    "salary": null,
+    "notes": "Maven posted a Graduate Floor Trader 2027 role on its Options Market Making team in Chicago, trading in the CBOE SPX pit. Subscribe to Direct Consideration to get the urgent roles, recruiter intel, events, and opportunities worth knowing about as they happen. Know someone prepping for recruiting season? Forward this newsletter"
   }
 ]
