@@ -1774,5 +1774,82 @@
     "date_seen": "2026-11-18",
     "salary": null,
     "notes": "Bank of America posted a Client Quantitative Analyst I role with locations listed in Addison, Jacksonville, Charlotte, Phoenix, and Plano. Subscribe to Direct Consideration to get the urgent roles, recruiter intel, events, and opportunities worth knowing about as they happen. Know someone prepping for recruiting season? Forward this newsletter"
+  },
+  {
+    "company": "OpenAI",
+    "position": "OpenAI",
+    "location": "San Francisco",
+    "apply_url": "https://openai.com/careers/software-engineer-applied-emerging-talent-(2027)-san-francisco/?utm_source=zero2sudo",
+    "type": "new_grad",
+    "source": "https://directconsideration.com/p/direct-consideration-033",
+    "date_seen": "2026-11-19",
+    "salary": null,
+    "notes": "OpenAI has a Software Engineer, Applied Emerging Talent (2027) role open in San Francisco. It may be a repost of an earlier listing, but it’s still live."
+  },
+  {
+    "company": "Roblox",
+    "position": "Roblox Summer 2027 SWE Internship",
+    "location": "Vancouver, British Columbia",
+    "apply_url": "https://careers.roblox.com/jobs/8386080?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-033",
+    "date_seen": "2026-11-19",
+    "salary": null,
+    "notes": "Cohort: BS / MS Internship Roblox posted a Software Engineer Intern role on its Engine team, based in Vancouver, British Columbia."
+  },
+  {
+    "company": "CrowdStrike",
+    "position": "CrowdStrike AI Research Launch Intern",
+    "location": "Sunnyvale CA, Austin TX, Arlington VA, and Redmond WA",
+    "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/AI-Research-Launch-Intern_R30599?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-033",
+    "date_seen": "2026-11-19",
+    "salary": null,
+    "notes": "Cohort: Underclassmen Internship CrowdStrike posted an AI Research Launch Intern role, full time, in Sunnyvale CA, Austin TX, Arlington VA, and Redmond WA. Applications close November 25, 2026."
+  },
+  {
+    "company": "Disney",
+    "position": "Disney Data Engineering Internship",
+    "location": "Santa Monica, California, with Disney Entertainment and ESPN Product & Technology",
+    "apply_url": "https://join.disneycareers.com/global/en/job/10163664/Data-Engineering-Intern?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-033",
+    "date_seen": "2026-11-19",
+    "salary": null,
+    "notes": "Disney posted a Data Engineering Intern role in Santa Monica, California, with Disney Entertainment and ESPN Product & Technology."
+  },
+  {
+    "company": "Disney",
+    "position": "Disney Tech Data Analytics Internship",
+    "location": "Santa Monica, California",
+    "apply_url": "https://join.disneycareers.com/global/en/job/10164672/Tech-Data-Analytics-Intern?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-033",
+    "date_seen": "2026-11-19",
+    "salary": null,
+    "notes": "Cohort: BS / MS Internship Disney posted a Tech Data Analytics Intern role in Santa Monica, California."
+  },
+  {
+    "company": "Tesla",
+    "position": "Tesla Summer 2027 TPM Internship",
+    "location": "Palo Alto, California",
+    "apply_url": "https://www.tesla.com/careers/search/job/290425?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-033",
+    "date_seen": "2026-11-19",
+    "salary": null,
+    "notes": "Tesla posted a Robotics Technical Program Manager internship on the Optimus Hardware team in Palo Alto, California."
+  },
+  {
+    "company": "Anduril",
+    "position": "Anduril 2027 Business Systems Engineer Internship",
+    "location": "Costa Mesa, California",
+    "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007&utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-033",
+    "date_seen": "2026-11-19",
+    "salary": null,
+    "notes": "Cohort: BS / MS Internship Anduril posted a 2027 Business Systems Engineer Intern role in Costa Mesa, California."
   }
 ]
