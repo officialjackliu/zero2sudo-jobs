@@ -1972,5 +1972,60 @@
     "date_seen": "2026-11-20",
     "salary": null,
     "notes": "Microsoft Research posted three Research Intern roles, all based in Redmond, Washington: Watchlist"
+  },
+  {
+    "company": "GlobalFoundries",
+    "position": "GlobalFoundries Summer 2027 AI/ML Internship",
+    "location": "Malta, New York",
+    "apply_url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-ML-Analytics-Intern--Digital-Manufacturing--Summer-2027-_JR-2604570?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-035",
+    "date_seen": "2026-11-24",
+    "salary": null,
+    "notes": "GlobalFoundries posted an AI/ML Analytics Intern, Digital Manufacturing role for Summer 2027 in Malta, New York."
+  },
+  {
+    "company": "Cisco",
+    "position": "Cisco Data Science Internship",
+    "location": "San Jose, California",
+    "apply_url": "https://careers.cisco.com/global/en/job/2032691/Data-Science-Analyst-II-Intern-United-States?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-035",
+    "date_seen": "2026-11-24",
+    "salary": null,
+    "notes": "Cohort: BS / MS Internship Cisco listed a Data Science Analyst II (Intern) role in San Jose, California."
+  },
+  {
+    "company": "Lucid",
+    "position": "Lucid Summer 2027 Embedded Software Internship",
+    "location": "Newark, CA",
+    "apply_url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5290800007?gh_jid=5290800007&utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-035",
+    "date_seen": "2026-11-24",
+    "salary": null,
+    "notes": "Cohort: BS / MS Internship Lucid posted an Intern, Embedded Software, BSP/Platform (ADAS/Autonomous Driving) role for Summer 2027, based in Newark, CA."
+  },
+  {
+    "company": "Apple",
+    "position": "Apple Evolve Rotation Program",
+    "location": "Cupertino, California, with 3 work locations listed",
+    "apply_url": "https://jobs.apple.com/en-us/details/200695965-0836/engineer-evolve-an-apple-services-rotation-program?utm_source=zero2sudo",
+    "type": "new_grad",
+    "source": "https://directconsideration.com/p/direct-consideration-035",
+    "date_seen": "2026-11-24",
+    "salary": null,
+    "notes": "Apple posted Engineer, Evolve - an Apple Services Rotation Program | Engineering New Grads, based in Cupertino, California, with 3 work locations listed."
+  },
+  {
+    "company": "Oracle",
+    "position": "Oracle Spring 2027 SWE Role",
+    "location": "Nashville, Tennessee",
+    "apply_url": "https://careers.oracle.com/en/sites/jobsearch/job/350824?utm_source=zero2sudo",
+    "type": "new_grad",
+    "source": "https://directconsideration.com/p/direct-consideration-035",
+    "date_seen": "2026-11-24",
+    "salary": null,
+    "notes": "Oracle posted a Spring 2027 Start Undergrad Software Engineer role on Oracle Cloud Infrastructure (OCI), based in Nashville, Tennessee.. Watchlist"
   }
 ]
