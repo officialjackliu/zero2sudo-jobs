@@ -2027,5 +2027,104 @@
     "date_seen": "2026-11-24",
     "salary": null,
     "notes": "Oracle posted a Spring 2027 Start Undergrad Software Engineer role on Oracle Cloud Infrastructure (OCI), based in Nashville, Tennessee.. Watchlist"
+  },
+  {
+    "company": "Rivian",
+    "position": "Rivian SWE Internship",
+    "location": "Software Engineering Intern, AI",
+    "apply_url": "https://careers.rivian.com/careers-home/jobs/37339?lang=en-us&utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-036",
+    "date_seen": "2026-11-24",
+    "salary": null,
+    "notes": "Cohort: BS / MS Internship Rivian opened a Software Engineering Intern, AI Platform, Autonomy role for Summer 2027 in Palo Alto, California."
+  },
+  {
+    "company": "Tesla",
+    "position": "Tesla Winter/Spring 2027 SWE Internship",
+    "location": "Software Engineer, SI",
+    "apply_url": "https://www.tesla.com/careers/search/job/290756?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-036",
+    "date_seen": "2026-11-24",
+    "salary": null,
+    "notes": "Tesla posted an Internship, Software Engineer, SI Hardware Architecture Simulation role in Palo Alto, California."
+  },
+  {
+    "company": "Benchling",
+    "position": "Benchling Summer 2027 SWE Internship",
+    "location": "San Francisco, CA",
+    "apply_url": "https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-036",
+    "date_seen": "2026-11-24",
+    "salary": null,
+    "notes": "Cohort: BS / MS Internship, Summer 2027 Benchling posted a Software Engineer, Intern role for Summer 2027 in San Francisco, CA."
+  },
+  {
+    "company": "NVIDIA",
+    "position": "NVIDIA AI Solution Engineer Internship",
+    "location": "Santa Clara, CA",
+    "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-036",
+    "date_seen": "2026-11-24",
+    "salary": null,
+    "notes": "Cohort: BS / MS Internship NVIDIA posted an Accounting AI Solution Engineer Intern role for Summer 2027 in Santa Clara, CA."
+  },
+  {
+    "company": "Lucid",
+    "position": "Lucid AI/ML Internship",
+    "location": "Intern, AI; Newark, CA",
+    "apply_url": "https://lucidmotors.com/careers/search/5290923007?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-036",
+    "date_seen": "2026-11-24",
+    "salary": null,
+    "notes": "Cohort: BS / MS Internship Lucid posted an Intern, AI/ML, Vehicle Infotainment role in Newark, CA."
+  },
+  {
+    "company": "Micron",
+    "position": "Micron Advanced Modeling and AI Solutions Internship",
+    "location": "Boise, ID",
+    "apply_url": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern--Advanced-Modeling-and-AI-Solutions_JR118093?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-036",
+    "date_seen": "2026-11-24",
+    "salary": null,
+    "notes": "(All) Micron opened an Intern, Advanced Modeling and AI Solutions role at its Boise, ID main site."
+  },
+  {
+    "company": "DraftKings",
+    "position": "DraftKings Summer 2027 Data Engineer Internship",
+    "location": "Boston, MA",
+    "apply_url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Engineer-Intern--Summer-2027-_JR15464?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-036",
+    "date_seen": "2026-11-24",
+    "salary": null,
+    "notes": "DraftKings posted a Data Engineer Intern role in Boston, MA."
+  },
+  {
+    "company": "McDonald's",
+    "position": "McDonald's UX Internship",
+    "location": "Chicago",
+    "apply_url": "https://jobs.mcdonalds.com/job/Chicago-UX-Intern-IL-60607/1453120800/?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-036",
+    "date_seen": "2026-11-24",
+    "salary": null,
+    "notes": "McDonald's listed a UX Intern role in Chicago."
+  },
+  {
+    "company": "Adobe",
+    "position": "Adobe 2027 Research Scientist Role",
+    "location": "San Jose",
+    "apply_url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Research-Scientist_R173584?utm_source=zero2sudo",
+    "type": "new_grad",
+    "source": "https://directconsideration.com/p/direct-consideration-036",
+    "date_seen": "2026-11-24",
+    "salary": null,
+    "notes": "Cohort: MS / PhD New Grad Adobe posted a 2027 University Graduate, Research Scientist role in San Jose. Subscribe to Direct Consideration to get the urgent roles, recruiter intel, events, and opportunities worth knowing about as they happen. Know someone prepping for recruiting season? Forward this newsletter"
   }
 ]
