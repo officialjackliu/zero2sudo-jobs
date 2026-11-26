@@ -2225,5 +2225,115 @@
     "date_seen": "2026-11-25",
     "salary": null,
     "notes": "JPMorgan Chase posted a Software Engineer I, Java/Springboot/SQL role in Newark, DE. Watchlist"
+  },
+  {
+    "company": "NVIDIA",
+    "position": "NVIDIA Summer 2027 SWE Internship",
+    "location": "Santa Clara, CA",
+    "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-038",
+    "date_seen": "2026-11-26",
+    "salary": null,
+    "notes": "(All) NVIDIA posted a Software Engineering Intern role for Summer 2027, based in Santa Clara, CA."
+  },
+  {
+    "company": "Amazon",
+    "position": "Amazon 2027 Front-End Engineer Internship",
+    "location": "the US",
+    "apply_url": "https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-038",
+    "date_seen": "2026-11-26",
+    "salary": null,
+    "notes": "Cohort: BS / MS Internship Amazon posted a Front-End Engineer Internship for 2027 in the US."
+  },
+  {
+    "company": "CodeRabbit",
+    "position": "CodeRabbit Software Engineer Internship",
+    "location": "San Francisco",
+    "apply_url": "https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-038",
+    "date_seen": "2026-11-26",
+    "salary": null,
+    "notes": "Cohort: BS / MS Internship CodeRabbit posted a full-time, hybrid Software Engineer Intern role in San Francisco."
+  },
+  {
+    "company": "Disney",
+    "position": "Disney Media Engineering Internship",
+    "location": "Disney Entertainment and ESPN Product & Technology, based in The Woodlands, Texas",
+    "apply_url": "https://join.disneycareers.com/global/en/job/10164423/Media-Engineering-Intern?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-038",
+    "date_seen": "2026-11-26",
+    "salary": null,
+    "notes": "Disney posted a Media Engineering Intern role with Disney Entertainment and ESPN Product & Technology, based in The Woodlands, Texas."
+  },
+  {
+    "company": "Cisco",
+    "position": "Cisco Security Engineer Internship",
+    "location": "Research Triangle Park, North Carolina",
+    "apply_url": "https://careers.cisco.com/global/en/job/2025885/Security-Engineer-I-Intern-United-States?utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-038",
+    "date_seen": "2026-11-26",
+    "salary": null,
+    "notes": "Cisco posted a hybrid Security Engineer I (Intern) role in Research Triangle Park, North Carolina."
+  },
+  {
+    "company": "Coinbase",
+    "position": "Coinbase Security Engineer Internship",
+    "location": "New York, NY",
+    "apply_url": "https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869&utm_source=zero2sudo",
+    "type": "internship",
+    "source": "https://directconsideration.com/p/direct-consideration-038",
+    "date_seen": "2026-11-26",
+    "salary": null,
+    "notes": "Coinbase posted a hybrid Security Engineer Intern role in New York, NY."
+  },
+  {
+    "company": "Meta",
+    "position": "Meta ASIC Engineer Role",
+    "location": "Sunnyvale, CA",
+    "apply_url": "https://www.metacareers.com/profile/job_details/1451659813754708/?utm_source=zero2sudo",
+    "type": "new_grad",
+    "source": "https://directconsideration.com/p/direct-consideration-038",
+    "date_seen": "2026-11-26",
+    "salary": null,
+    "notes": "Meta posted an ASIC Engineer role on its Performance Architecture and Modeling team, based in Sunnyvale, CA, with one additional location listed."
+  },
+  {
+    "company": "CodeRabbit",
+    "position": "CodeRabbit SWE Role",
+    "location": "San Francisco",
+    "apply_url": "https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51?utm_source=zero2sudo",
+    "type": "new_grad",
+    "source": "https://directconsideration.com/p/direct-consideration-038",
+    "date_seen": "2026-11-26",
+    "salary": null,
+    "notes": "CodeRabbit posted a full-time, hybrid Software Engineer role in San Francisco."
+  },
+  {
+    "company": "Bank of America",
+    "position": "Bank of America",
+    "location": "Pennington",
+    "apply_url": "https://ghr.wd1.myworkdayjobs.com/en-US/lateral-us/job/Pennington/Software-Engineer-I--Java_26043787?utm_source=zero2sudo",
+    "type": "new_grad",
+    "source": "https://directconsideration.com/p/direct-consideration-038",
+    "date_seen": "2026-11-26",
+    "salary": null,
+    "notes": "Bank of America posted a full-time Software Engineer I – Java role in Pennington. Applications close December 5, 2026."
+  },
+  {
+    "company": "Two Sigma",
+    "position": "Two Sigma",
+    "location": "New York",
+    "apply_url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Trader-Full-Time-Campus-Hire/14440?utm_source=zero2sudo",
+    "type": "new_grad",
+    "source": "https://directconsideration.com/p/direct-consideration-038",
+    "date_seen": "2026-11-26",
+    "salary": null,
+    "notes": "Two Sigma posted a full-time Quantitative Trader campus hire role in New York. One Thing I Want To Know Interviewed with a company this cycle? Reply with the details, even if it’s just a few lines: Company / Role Round (OA, phone screen, final) What they asked Anything that surprised you If you interviewed with NVIDIA, I especially want to know how closely it matched what their guide described. If you’re fine with me sharing what you tell me in a future issue, just say so. Your name stays out either way. Subscribe to Direct Consideration to get the urgent roles, recruiter intel, events, and opportunities worth knowing about as they happen. Know someone who needs to see this? Forward this newsletter"
   }
 ]
